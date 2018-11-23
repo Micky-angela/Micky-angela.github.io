@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'I cannot forget the follies and vices of othersso soon as I ought, nor their offenses against myself.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I sat downbeside the fire, however, with the intention of awaiting him,however long he might be.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'You know that a visa is useless, and that no passportis required?'      
 };
 
 function status(statusText) {
